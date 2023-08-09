@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @C0derHarry
-- 👀 I’m interested in machine learning and AI
-- 🌱 Computer Science Student at VIT Vellore
-
-Just added a pizzaman game 
+- 👋 Hi, fellow Dystopian future enjoyer
+- 🌱 Computer Science Student with Data Science Specialization at VIT Vellore
+- 👀 Intrigued by Machine Learning and AI
