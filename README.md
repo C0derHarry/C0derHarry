@@ -1,3 +1,3 @@
-- 👋 Hi, fellow Dystopian future enjoyer
-- 🌱 Computer Science Student with Data Science Specialization at VIT Vellore
-- 👀 Intrigued by Machine Learning and AI
+- 👋 I hate coding lol
+- 🌱 Application Developer
+- 👀 Intrigued by what I don't understand, which is basically everything
