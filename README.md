@@ -1,3 +1,4 @@
-- 👋 I hate coding lol
+- 👋 I hate coding
 - 🌱 Application Developer
 - 👀 Intrigued by what I don't understand, which is basically everything
+- I love quantitative finance
